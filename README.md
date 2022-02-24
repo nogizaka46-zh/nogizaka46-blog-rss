@@ -1,15 +1,10 @@
-# 👷 `worker-template` Hello World
+# Nogizaka46 Blog Rss
 
-A template for kick starting a Cloudflare worker project.
+add member's name to the url `https://nogizaka46-blog-rss.kasper.workers.dev/${name}`
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
+you need use `.` to separate the name
 
-#### Wrangler
+for example:
+[https://nogizaka46-blog-rss.kasper.workers.dev/hayakawa.seira](https://nogizaka46-blog-rss.kasper.workers.dev/hayakawa.seira)
 
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+see `profile.json` for more members supported
