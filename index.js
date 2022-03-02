@@ -14,17 +14,18 @@ async function handleRequest(request) {
       status: 418,
     })
   }
-  let member = profile['data'].filter(
+
+  let member = profile['data'].find(
     member => member['english_name'] === query.split('.').join(' '),
   )
-  if (member.length === 0) {
+
+  if (member === undefined) {
     return new Response('Not Found', {
       status: 404,
       statusText: 'Not Found',
     })
   }
 
-  member = member[0]
   const resp = await fetch(
     `https://www.nogizaka46.com/s/n46/api/json/diary?member_id=${member.code}&cd=MEMBER&rw=10`,
     {
