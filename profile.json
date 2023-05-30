@@ -1,6 +1,66 @@
 {
   "data": [
     {
+      "name": "岡本 姫奈",
+      "kana": "おかもと ひな",
+      "english_name": "hina okamoto",
+      "code": "55401"
+    },
+    {
+      "name": "川﨑 桜",
+      "kana": "かわさき さくら",
+      "english_name": "sakura kawasaki",
+      "code": "55400"
+    },
+    {
+      "name": "池田 瑛紗",
+      "kana": "いけだ てれさ",
+      "english_name": "teresa ikeda",
+      "code": "55397"
+    },
+    {
+      "name": "五百城 茉央",
+      "kana": "いおき まお",
+      "english_name": "mao ioki",
+      "code": "55396"
+    },
+    {
+      "name": "中西 アルノ",
+      "kana": "なかにし あるの",
+      "english_name": "aruno nakanishi",
+      "code": "55395"
+    },
+    {
+      "name": "奥田 いろは",
+      "kana": "おくだ いろは",
+      "english_name": "iroha okuda",
+      "code": "55394"
+    },
+    {
+      "name": "冨里 奈央",
+      "kana": "とみさと なお",
+      "english_name": "nao tomisato",
+      "code": "55393"
+    },
+    {
+      "name": "小川 彩",
+      "kana": "おがわ あや",
+      "english_name": "aya ogawa",
+      "code": "55392"
+    },
+    {
+      "name": "菅原 咲月",
+      "kana": "すがわら さつき",
+      "english_name": "satsuki sugawara",
+      "code": "55391"
+    },
+    {
+      "name": "井上 和",
+      "kana": "いのうえ なぎ",
+      "english_name": "nagi inoue",
+      "code": "55389"
+    },
+    {
       "name": "弓木 奈於",
       "kana": "ゆみき なお",
       "english_name": "yumiki nao",
